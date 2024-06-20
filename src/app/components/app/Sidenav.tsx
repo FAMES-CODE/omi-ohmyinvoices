@@ -1,6 +1,6 @@
 import React from "react";
 import { Avatar, Button } from "@nextui-org/react";
-import { text } from "stream/consumers";
+
 export default function Sidenav() {
   return (
     <div className="flex flex-col h-full border-r-4">
